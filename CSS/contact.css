@@ -1,0 +1,30 @@
+.cont00{
+    margin: 0 20vw;
+    margin-top: 8vh;
+
+}
+.mr00{
+    margin-top: 1vw;
+}
+
+.img00{
+    height: 194px;
+    border-radius: 94px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.aboutme0{
+    display: block;
+    margin-top: 2vw;
+    text-align: center;
+}
+
+.value{
+    width: 84%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}

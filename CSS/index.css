@@ -1,0 +1,26 @@
+.mar1{
+    margin-left:100px;
+    margin-right:100px;
+}
+.projects0{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+    height: 100%;
+}
+.icons0{
+    display: flex;
+    justify-content: space-around;
+    align-items: last baseline;
+    margin-left: 1vw;
+    width: 11vw;
+
+
+}
+
+
